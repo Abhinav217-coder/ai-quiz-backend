@@ -84,5 +84,5 @@ Create .env file:
 GROQ_API_KEY=your_api_key_here
 
 
-the user aunthentication is not actually completed and iam working on it 
+the user authentication is not actually completed and iam working on it 
 
