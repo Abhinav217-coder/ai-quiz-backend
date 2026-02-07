@@ -48,7 +48,9 @@ VS Code
 
 Installation & Setup
 1️ Clone Repository
+
 git clone https://github.com/yourusername/quiz-project.git
+
 cd quiz-project
 
 2️ Backend Setup (Django)
