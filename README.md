@@ -54,16 +54,25 @@ git clone https://github.com/yourusername/quiz-project.git
 cd quiz-project
 
 2️ Backend Setup (Django)
+
 cd backend
+
 python -m venv venv
-source venv/bin/activate   
+
+source venv/bin/activate 
+
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
 
 #frontend setup
+
 cd frontend
+
 npm install
+
 npm start
 
 
@@ -71,7 +80,9 @@ npm start
 
 Create .env file:
 
+
 GROQ_API_KEY=your_api_key_here
+
 
 the user aunthentication is not actually completed and iam working on it 
 
