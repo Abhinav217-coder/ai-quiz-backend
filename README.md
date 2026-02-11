@@ -86,3 +86,5 @@ GROQ_API_KEY=your_api_key_here
 
 the user authentication is not actually completed and iam working on it 
 
+![Quiz Screenshot](Screenshot%202026-02-11%20164736.png)
+
