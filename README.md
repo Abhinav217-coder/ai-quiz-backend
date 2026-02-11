@@ -100,3 +100,9 @@ IMAGE OF JOIN PAGE
 ![Quiz Screenshot](join%20room.png)
 
 
+JOINED PLAYER DETAILS
+
+![Quiz Screenshot](name%20shows%20on%20joins%20page.png)
+
+
+
