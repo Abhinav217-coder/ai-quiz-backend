@@ -94,3 +94,9 @@ WHEN USER JOINS LOBBY
 
 ![Quiz Screenshot](LOBBY.png)
 
+
+IMAGE OF JOIN PAGE
+
+![Quiz Screenshot](join%20room.png)
+
+
